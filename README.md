@@ -6,5 +6,5 @@ A modified version of the dataset **(Salaries_no_null_values.xlsx)** which conta
 
 NOTES: 
 - The 7 required tasks can be seen at the beginning of the Jupyter Notebook file.
-- The Jupyter Notebook file is big and might not be able to be rendered on github, please download it and view it locally if that is the case.
+- The Jupyter Notebook file is big and might not be rendered on github, please download it and view it locally or on Google Colab.
 - All visualization was done using Plotly library.
